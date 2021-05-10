@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+header{
+    color: white;
+    
+}
+a{
+    text-decoration: none;
+}
+.header{
+    background-color:blue;
+    width:100%;
+    height:39px;
+}
+.header-list li {
+    list-style:none;
+    float:left;
+    padding:10px;
+    
+}
+.logo img{
+    float:left;
+    padding-left:390px;
+    
+}
+.header-list a{
+    color:white;
+    font-weight:normal;
+}
+.body p{
+    color:#1ad6c3;
+    text-align:center;  
+    font-size:90px;
+    
+}
+.body{
+    padding-left:10%;
+    padding-right:10%;
+    padding-bottom:1px;
+}
+.body span{
+    color:red;
+}
+.body h1{
+    font-size:25px;
+    color:#1ad6c3;
+}
+/*Genre Start*/
+.g{
+    color:#1ad6c3;
+}

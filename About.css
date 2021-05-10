@@ -1,0 +1,74 @@
+body{
+    background-color: black;
+}
+header{
+    color: white;
+    
+}
+a{
+    text-decoration: none;
+}
+.border{
+    border:0.5px solid white
+}
+.header{
+    background-color:blue;
+    width:100%;
+    height:39px;
+}
+.header-list li {
+    list-style:none;
+    float:left;
+    padding:10px;
+    
+}
+.logo img{
+    float:left;
+    padding-left:390px;
+    
+}
+.header-list a{
+    color:white;
+    font-weight:normal;
+}
+.body{
+    color:#1ad6e3;
+}
+.body p{
+    text-align:center;
+    padding-top:92px;
+    font-size:45px;
+    padding-left: 40px;
+    padding-right:40px;
+    padding-bottom:50px;
+}
+.Welcome{
+    font-weight:bold;
+}
+.coma1{
+    color:red;
+}
+.contactus{
+    font-size:42px
+}
+.contact p{
+    color: #1ad6e3;
+    margin-bottom: 5px;
+}
+input{
+    padding-top:5px;
+    height:12px;
+    width:175px
+}
+.contact-heading{
+    font-size:22px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.contact h1{
+    color:#1ad6e3;
+    font-size:24px;
+}
+textarea{
+    height:45px;
+    width:200px;
+}
