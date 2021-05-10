@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+header{
+    color: white;
+    
+}
+a{
+    text-decoration:none;
+}
+.header{
+    background-color:blue;
+    width:100%;
+    height:39px;
+}
+.header-list li {
+    list-style:none;
+    float:left;
+    padding:10px;
+    
+}
+.logo img{
+    float:left;
+    padding-left:390px;
+    
+}
+.header-list a{
+    color:white;
+    font-weight:normal;
+}
+.body{
+    color:#1ad6e3;
+}
+.body p{
+    font-size:32px;
+    text-align:center;
+}
+.body li{
+    padding-bottom:20px;
+    list-style:none;
+    padding-left:10px;
+    
+}
+.body a{
+    color:#000fff
+}
